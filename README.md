@@ -15,7 +15,7 @@ These packages are used to run our ML model.
 ## Structure
 setup.py is a preprocessing file
 
-cnn.py is our network architecture
+cnn_model.py is our network architecture
 
 predict.py loads our model and predicts an input image.
 
@@ -27,6 +27,11 @@ and run predict.py using
 python predict.py
 ```
 Within predict.py a line must be changed in order to specify which file to validate. 
+
+The line that specifies basedir must be changed to the directory with the proper image. An example is shown below.
+```
+basedir = 'C:/Users/Eugen/Documents/School/CS542/Project/test_data/test.1600.jpg'
+```
 Please note we are using python3. Please verify your python version.
 
 ## Output
