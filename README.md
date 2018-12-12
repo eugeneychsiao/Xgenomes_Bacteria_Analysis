@@ -34,3 +34,12 @@ basedir = 'C:/Users/Eugen/Documents/School/CS542/Project/test_data/test.1600.jpg
 ```
 Please note we are using python3. Please verify your python version.
 
+## Output
+This program will output one of two lines into the command line:
+```
+image is lambdaphage
+```
+or 
+```
+image is t7 bacteria
+```
