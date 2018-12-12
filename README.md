@@ -26,5 +26,10 @@ and run predict.py using
 ```
 python predict.py
 ```
+Within predict.py a line must be changed in order to specify which file to validate. 
+Please note we are using python3. Please verify your python version.
+
+## Output
+
 
 
