@@ -28,7 +28,7 @@ python predict.py
 ```
 Within predict.py line 14 must be changed in order to specify which file to validate. 
 
-The line that specifies basedir must be changed to the directory with the proper image. An example is shown below.
+The line that specifies basedir must be changed to the directory and specific file you would like to validate. An example is shown below.
 ```
 basedir = 'C:/Users/Eugen/Documents/School/CS542/Project/test_data/test.1600.jpg'
 ```
