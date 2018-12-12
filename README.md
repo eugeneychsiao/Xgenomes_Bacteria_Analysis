@@ -23,8 +23,8 @@ predict.py loads our model and predicts an input image.
 To use our program download the pretrained model from the following link: https://drive.google.com/file/d/1L_NJTtDb9WLfScMmRH0KtgVX529m9dWl/view?usp=sharing
 
 and run predict.py using 
-'''
+```
 python predict.py
-'''
+```
 
 
