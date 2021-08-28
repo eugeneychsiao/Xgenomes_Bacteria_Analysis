@@ -1,8 +1,8 @@
 # XGenomes - Binary Classification of T7 and lambda phage
-From Boston University CS542 Final Project in Collaboration with XGenomes.
+CS542 Project in Collaboration with XGenomes.
 
 ## Getting started
-First download all packages below:
+Download all packages below:
 - Numpy
 - Matplotlib
 - scipy
